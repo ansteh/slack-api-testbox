@@ -1,0 +1,22 @@
+{
+  "name": "slack-api-testbox",
+  "version": "1.0.0",
+  "description": "Playground for Slack APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansteh/slack-api-testbox.git"
+  },
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/slack-api-testbox/issues"
+  },
+  "homepage": "https://github.com/ansteh/slack-api-testbox#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
